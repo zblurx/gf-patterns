@@ -1,0 +1,4 @@
+{
+    "flags": "-HanriE",
+    "pattern": "(TODO|FIXME)"
+}
